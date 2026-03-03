@@ -84,7 +84,7 @@ let func = (a, b, c) => a + b + c;  // curly brackets must be omitted
 ```
 
 
-## Key/Property Shorthand
+## Key/Value Shorthand
 
 ES6 introduces a shorter notation for assigning properties to variables of the same name.
 
